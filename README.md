@@ -5,7 +5,7 @@
 
 ##
 
-#### Linguagens que estou sempre estudando e tentando ficar sempre atualizado
+### 🖥️ Tecnologias e Ferramentas: 
 
 </div>
 <div style="display: inline_block"><br>
